@@ -1,0 +1,4 @@
+# requirements.txt
+fastapi[all]==0.60.1
+motor==2.1.0
+pytest==6.0.1
